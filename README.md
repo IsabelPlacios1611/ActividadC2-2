@@ -1,2 +1,1 @@
-# ActividadC2-2
-Documentación de la Actividad C2-2 
+Bienvenido al repositorio de Andrea 
